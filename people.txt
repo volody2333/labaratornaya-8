@@ -1,0 +1,10 @@
+Ivanov Ivan 1990 M 1.85
+Petrova Anna 1995 F 1.68
+Sidorov Petr 1988 M 1.92
+Kozlova Elena 1990 F 1.75
+Smirnov Alexander 1985 M 1.78
+Vasilieva Olga 1992 F 1.70
+Morozov Dmitry 1988 M 1.88
+Volkova Tatyana 1995 F 1.65
+Pavlov Andrey 1987 M 1.83
+Nikolaeva Svetlana 1990 F 1.72
